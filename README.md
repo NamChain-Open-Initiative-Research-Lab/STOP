@@ -28,5 +28,11 @@ We are proposing a rating system (similar to [COPINE Scale](https://en.wikipedia
 | 3 | |
 | 4 | |
 
+# SDG 
 
-
+<p align="center">
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G3.png" width="200"/>    
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G5.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G16.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G17.png" width="200"/> 
+</p>   
