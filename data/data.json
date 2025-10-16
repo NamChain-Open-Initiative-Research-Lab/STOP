@@ -1,5 +1,4 @@
 [
-  /* --- High Severity English (Commonly used globally and in Indian English chat) --- */
   { "word": "pussy", "cat": "body part", "severity": "high" },
   { "word": "dick", "cat": "body part", "severity": "high" },
   { "word": "cock", "cat": "body part", "severity": "high" },
@@ -25,8 +24,6 @@
   { "word": "vibrator", "cat": "object", "severity": "high" },
   { "word": "come on my", "cat": "sexual act", "severity": "high" },
   { "word": "fuck you", "cat": "profanity/insult", "severity": "high" },
-
-  /* --- High Severity Tamil Keywords (Explicit Slang) --- */
   { "word": "sunni", "cat": "body part (Tamil)", "severity": "high" },
   { "word": "koothi", "cat": "body part (Tamil)", "severity": "high" },
   { "word": "punda", "cat": "body part (Tamil)", "severity": "high" },
@@ -42,8 +39,6 @@
   { "word": "soothu", "cat": "body part (Tamil)", "severity": "medium" },
   { "word": "mula", "cat": "body part (Tamil)", "severity": "medium" },
   { "word": "kambik", "cat": "suggestive context (Tamil)", "severity": "medium" },
-
-  /* --- High Severity Malayalam Keywords (Explicit Slang) --- */
   { "word": "poolu", "cat": "body part (Malayalam)", "severity": "high" },
   { "word": "kunna", "cat": "body part (Malayalam)", "severity": "high" },
   { "word": "ozhikkuka", "cat": "sexual act (Malayalam)", "severity": "high" },
@@ -55,3 +50,4 @@
   { "word": "olikkal", "cat": "sexual act (Malayalam)", "severity": "medium" },
   { "word": "choodu", "cat": "suggestive context (Malayalam)", "severity": "medium" }
 ]
+
